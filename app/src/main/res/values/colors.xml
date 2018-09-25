@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ColorLlamada">#12e20e</color>
+    <color name="Coloremail">#141be2</color>
+    <color name="Colorfacebook">#050bb3</color>
+</resources>
